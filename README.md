@@ -7,6 +7,6 @@ npm start
 # To create the backend, created a directory "backend", then clone this github project
 https://github.com/GitLucasQ/FlaskTodoList.git
 
-# To start the backend
+## To start the backend
 cd backend
 .\ apis.py
