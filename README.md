@@ -1,4 +1,5 @@
-### To start the app
+# TodoList App
+## To start the app
 cd frontend
 npm start
 
